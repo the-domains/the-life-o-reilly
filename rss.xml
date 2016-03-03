@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[The Life O'Reilly]]></title>
         <description><![CDATA[The Life O'Reilly]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/the-life-o-reilly/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 03 Mar 2016 07:41:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 03 Mar 2016 08:18:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/the-life-o-reilly/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6988af0b-6b50-4717-a909-f91a4030fb65.jpg">]]></description>
+            <link>https://thegrid.ai/the-life-o-reilly/f6d48288-0361-4ee4-8882-85708974284a/index.html</link>
+            <guid isPermaLink="false">f6d48288-0361-4ee4-8882-85708974284a</guid>
+            <pubDate>Thu, 03 Mar 2016 08:17:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life O'Reilly]]></title>
             <description><![CDATA[<article><h1>Life O'Reilly</h1><p>She is the ideal cruising boat, as the rig is super easy to reef (you don't need to alter course to do so even when short handed (or single handed).</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c6dd5d7fb7afb30f6c068c64457e818aa96cbc4d.jpg"></article>]]></description>
-            <link>undefinedlife-oreilly/index.html</link>
+            <link>https://thegrid.ai/the-life-o-reilly/life-oreilly/index.html</link>
             <guid isPermaLink="false">f9a97922-455a-4d94-b30d-87b5b6d5946a</guid>
             <pubDate>Thu, 03 Mar 2016 07:40:52 GMT</pubDate>
         </item>
