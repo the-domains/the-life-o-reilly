@@ -1,0 +1,28 @@
+name: "The Life O'Reilly"
+favicon: null
+layout_spectrum: 0.6633598648477346
+typography_spectrum: 0.37227302556857467
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.6504949564114213
+  lightness: 0.36462927889078856
+  saturation: 0.9561521401628852
+  rhythmicContrast: 0.7619101463351399
+purpose: []
